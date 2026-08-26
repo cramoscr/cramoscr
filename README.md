@@ -1,49 +1,56 @@
-# Carlos Ramos
+# Carlos Ramos Gomez
 
-Senior Software Engineer with a background spanning **Oracle enterprise systems,
-cloud infrastructure, systems administration, networking, and information security**.
+Senior Software Engineer specializing in **Oracle enterprise systems**, with a
+previous background in infrastructure, networking, and systems administration.
 
-My experience combines software engineering with infrastructure and operational
-responsibility, including enterprise networks, servers, data-center environments,
-Cisco networking, high availability, and security-oriented practices.
+Over the years, my work has included enterprise software development, Oracle
+technologies, Cisco networking, server and data-center infrastructure, and
+high-availability environments.
 
-I’m interested in the intersection between deep technical work, sound engineering
-judgment, and practical business impact.
+I am currently expanding my work into cloud infrastructure, modern software
+architecture, and AI-assisted systems.
 
 ## Current Focus
 
-- Enterprise & Oracle engineering
-- Cloud architecture and infrastructure
-- Systems and infrastructure engineering
-- Networking and security
+- Oracle enterprise applications
+- Cloud infrastructure and architecture
 - Modern software architecture
 - AI-assisted and conversational systems
 - High-impact individual contributor roles
 
-## Technical Background
+## Professional Development
 
-My technical path includes work across:
+I am documenting my current professional and technical evolution through two
+related projects:
 
-- Oracle PL/SQL and enterprise applications
-- Oracle Forms, Reports, BI Publisher, and APEX
-- OCI and cloud infrastructure
-- Linux and server administration
+- [`my-seniority-project`](https://github.com/cramoscr/my-seniority-project) —
+  development of engineering judgment, communication, technical depth, and
+  professional impact.
+
+- [`my-technical-development`](https://github.com/cramoscr/my-technical-development) —
+  the technical development track supporting that broader professional growth.
+
+## Selected Work
+
+- [`oracle-oci-gnsys-project`](https://github.com/cramoscr/oracle-oci-gnsys-project) —
+  hands-on OCI project covering networking, compute, load balancing,
+  Autonomous Database, application integration, and high availability.
+
+- [`Library`](https://github.com/cramoscr/Library) —
+  fork used for an open-source contribution to the official Octopus Deploy
+  Library: a Python-based JSON validation step template, reviewed and
+  [merged upstream as PR #1269](https://github.com/OctopusDeploy/Library/pull/1269).
+
+## Background
+
+My technical background also includes:
+
+- Oracle PL/SQL, Forms, Reports, BI Publisher, and APEX
+- Systems and infrastructure administration
 - Cisco networking
-- Enterprise network and data-center environments
-- High availability and disaster-recovery concepts
-- Information security and governance practices
-- ITIL, COBIT, ISO 9001, and exposure to ISO 27001-related practices
+- Data-center and high-availability environments
+- ITIL, COBIT, and ISO-oriented practices
 
-## Featured Work
-
-- [`my-seniority-project`](https://github.com/cramoscr/my-seniority-project) — documenting my broader professional evolution: engineering depth, judgment, communication, and impact.
-- [`my-technical-development`](https://github.com/cramoscr/my-technical-development) — technical development path supporting that broader professional growth.
-- [`oracle-oci-gnsys-project`](https://github.com/cramoscr/oracle-oci-gnsys-project) — production-style OCI architecture built through hands-on implementation, including networking, load balancing, Autonomous Database, and failure simulation.
-
-## Professional Direction
-
-I’m deliberately strengthening the capabilities required to operate in
-**high-impact senior engineering environments**, combining enterprise software,
-infrastructure, cloud, networking, security, and modern architecture.
+---
 
 > **Complexity inside. Clarity outside.**
