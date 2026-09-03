@@ -5,7 +5,7 @@ Costa Rica | cramoscr@gmail.com | (506) 8831-7086 | linkedin.com/in/cramoscr | g
 
 ## Professional Summary
 
-Senior Software Engineer with 20+ years of experience designing, building and evolving business-critical enterprise systems. Strongest in translating complex business operations into pragmatic software solutions, with deep Oracle expertise across PL/SQL, Forms, Reports, BI Publisher and APEX. Experience spans credit-card processing, financial services, insurance, payroll, ERP, logistics and analytics, combining requirements discovery, domain modeling, solution design, implementation and production support.
+Senior Software Engineer with 20+ years of experience designing, building and evolving business-critical systems across both large-scale enterprise environments and smaller businesses requiring end-to-end technology solutions. Strongest in translating complex business operations into pragmatic software solutions, with deep Oracle expertise across PL/SQL, Forms, Reports, BI Publisher and APEX. Experience spans credit-card processing, financial services, insurance, payroll, ERP, logistics and analytics, combining requirements discovery, domain modeling, solution design, implementation and production support.
 
 ## Core Expertise
 
