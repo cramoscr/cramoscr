@@ -1,7 +1,7 @@
 # Carlos Ramos Gómez
 
 **Senior Software Engineer | Oracle PL/SQL | Enterprise Systems**  
-Costa Rica | cramoscr@gmail.com | (506) 8831-7086 | linkedin.com/in/cramoscr
+Costa Rica | cramoscr@gmail.com | (506) 8831-7086 | linkedin.com/in/cramoscr | github.com/cramoscr
 
 ## Professional Summary
 
