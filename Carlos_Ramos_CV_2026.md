@@ -71,10 +71,11 @@ Oracle: PL/SQL, Forms, Reports, BI Publisher, APEX, Autonomous Database | Cloud:
 
 ## Certifications & Professional Development
 
+- Oracle Cloud Infrastructure Foundations Associate
 - ITIL Foundation
 - Cisco CCNP Routing & Switching; CCNP Security; CCNA Security
 - Microsoft MCTS - Exchange Server
-- Google AI Essentials; hands-on Oracle Cloud Infrastructure learning and labs
+- Google AI Essentials
 
 ## Professional Profile
 
