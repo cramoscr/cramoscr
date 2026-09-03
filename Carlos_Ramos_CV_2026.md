@@ -31,6 +31,7 @@ Oracle PL/SQL • Oracle Forms • Oracle Reports • BI Publisher • Oracle AP
 **2002 - Present (intermittent)**
 
 - Designed and delivered custom business systems by discovering client workflows, modeling business rules and converting Excel/manual processes into maintainable Oracle applications.
+- Almacenes El Rey retail transformation: led the implementation of a web-based Point-of-Sale platform across approximately 10 stores plus headquarters and a distribution center, supporting around 70 devices and a catalog of roughly 100,000 products; also contributed to hardware selection, store infrastructure, user training, operational support and distribution-center improvements.
 - Financial system for an employee association: evolved savings functionality into loans, configurable credit policies, member services and revenue distribution; solution remained in production for roughly 10 years.
 - Payroll system for Almacenes El Rey: expanded from payroll into annual-benefit and termination-settlement processing; solution remained operational for approximately 16 years as the company grew to about 300 employees.
 - TAN Media (London): built an Oracle APEX analytics solution with recurring external-API consumption, scheduled ingestion into Oracle tables and client-facing campaign dashboards; won internationally and received repeat development work.
