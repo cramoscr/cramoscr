@@ -41,12 +41,14 @@ Oracle PL/SQL • Oracle Forms • Oracle Reports • BI Publisher • Oracle AP
 ### Technical Support Manager | Sociedad de Seguros de Vida del Magisterio
 **Mar 2008 - Jul 2014**
 
+- Actively participated in defining the company's technology direction, contributing to technology strategy, architecture decisions, modernization initiatives and the evaluation of solutions supporting business objectives.
 - Led technical support and engineering operations and participated in IT governance and service-management initiatives using COBIT, ITIL and ISO 9001 practices.
 - Coordinated technology deployments, operational support and third-party services in a business-critical financial/insurance environment.
 
 ### Datacenter & Network Administrator | Sociedad de Seguros de Vida del Magisterio
 **Jan 2003 - Feb 2008**
 
+- Contributed to the design and implementation of a highly available datacenter architecture, including primary and standby infrastructure supporting the organization's critical business systems.
 - Administered datacenter, LAN/WAN, enterprise services and security controls across a multi-branch environment; implemented hardening, firewall/VPN and infrastructure improvements.
 - Contributed to the organization's transition from legacy/mainframe-oriented operations toward distributed client/server infrastructure.
 
