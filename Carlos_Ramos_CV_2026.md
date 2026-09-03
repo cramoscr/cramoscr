@@ -55,7 +55,7 @@ Oracle PL/SQL • Oracle Forms • Oracle Reports • BI Publisher • Oracle AP
 ### Software Developer | Sociedad de Seguros de Vida del Magisterio
 **May 1998 - Dec 2002**
 
-- Developed financial and business applications using Oracle Forms, Reports and Designer, alongside UNISYS/LINC systems.
+- Developed core insurance business applications using Oracle Forms, Reports and Designer, alongside UNISYS/LINC systems, supporting the company's primary insurance operations.
 
 ### Software Developer | Municipalidad de San José
 **Dec 1993 - May 1996**
