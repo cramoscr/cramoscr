@@ -10,5 +10,5 @@
 _Actualizado: 2026-10-05 — cierre FAB-008._
 ## Convención operativa CI/CD
 
-En `cirios-app`, los commits normales no disparan CI/CD. La frase clave **`dispara ci/cd`** indica autorización explícita para actualizar `.github/trigger-ci-cd` y crear un commit técnico que active el workflow de build y deploy.
+En `cirios-app`, los commits normales no disparan CI/CD. La frase clave **`publica en producción`** indica autorización explícita para actualizar `.github/trigger-ci-cd` y crear un commit técnico que active el workflow de build y deploy.
 
