@@ -40,6 +40,6 @@ IBUI es un proyecto de investigación y prototipado independiente, no una funcio
 - **Pendientes:** validar build; implementar conexión segura y verificar CORS/autorización; probar consultas reales, filtrado, estados vacío/error y vistas responsivas; revisar y cerrar OpenSpec; validar en celular; desplegar solo con aprobación.
 - **Próximo paso acordado (siguiente sesión):** implementar CI/CD para IBUI siguiendo el patrón ya probado en Fabrícamelo (GitHub Actions, Firebase Hosting aislado y disparador controlado mediante «publica en producción»). No confundir implementación del workflow con autorización para publicar.
 
-## Mis viejos fracazos
+## Mis viejos fracasos
 
-[Mis viejos fracazos](https://github.com/cramoscr/my-seniority-project-private/tree/main/mis-viejos-fracazos)
+[Mis viejos fracasos](https://github.com/cramoscr/my-seniority-project-private/tree/main/mis-viejos-fracasos)
