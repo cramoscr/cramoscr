@@ -10,6 +10,6 @@
 | [OCI GnSys](https://github.com/cramoscr/oracle-oci-gnsys-project) | Certificación OCI obtenida | Pausa |
 | Cáritas / SIISPA | Transición de cierre | Conservación |
 
-[Índice de repositorios](https://github.com/cramoscr/my-seniority-project-private/blob/main/repositories.md) · [Mis viejos fracasos](https://github.com/cramoscr/my-seniority-project-private/tree/main/mis-viejos-fracasos)
+[Índice de repositorios](https://github.com/cramoscr/my-seniority-project-private/blob/main/repositories.md) · [Escuchar el viento](https://github.com/cramoscr/distillery-project/blob/main/research/software-value-radar/README.md) · [Mis viejos fracasos](https://github.com/cramoscr/my-seniority-project-private/tree/main/mis-viejos-fracasos)
 
 _Actualizado: 15/oct/2026._
