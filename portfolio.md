@@ -1,5 +1,9 @@
 # Project Portfolio
 
+## Índice maestro
+
+[Repositories (privado)](https://github.com/cramoscr/my-seniority-project-private/blob/main/repositories.md)
+
 | Proyecto | Estado | Tarea actual | Próxima actividad |
 |---|---|---|---|
 | [Fabrícamelo](https://github.com/cramoscr/fabricamelo) | ACTIVE — VOICE-FIRST / FAB-009 COMPLETED; FAB-010 MERGE; FAB-011 IN PROGRESS | Integración de Alexa («mi taller») con Cirios-App mediante Firebase Functions y APIs; flujo de pedidos y consultas de pedidos desarrollado. FAB-009 cerrado. Trabajo posterior de integración/merge y FAB-011 en evolución. | Verificar el estado real de FAB-010/FAB-011, continuar las funcionalidades acordadas y mantener CI/CD controlado. |
